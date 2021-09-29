@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm George Panagiotopoulos</h1>
-<h3 align="center">I have a Bachelor degree in mathematics with a focus on applied maths and a Master in Computer Science. However in the last couple of years I have discovered my passion for Data Science and coding, so I am working in this field.</h3>
+<h3 align="center"> -My Bachelor degree is in mathematics and more specifically in the field of applied maths.
+-However, my Master degree is in Informatics and Computational Biomedicine and more specifically in the field of Computer Science and Data Processing.
+-In the last couple of years, I have discovered my passion for Data Science and coding. 
+-Join me. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 

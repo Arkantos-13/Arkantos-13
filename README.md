@@ -9,7 +9,7 @@
  
    In the last couple of years, I have discovered my passion for Data Science and coding. 
   
-  ** ### Join me **. </h3>
+  ** ##Join me **. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 

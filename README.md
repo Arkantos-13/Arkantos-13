@@ -2,14 +2,14 @@
 
 <h3 align="center">
   
-  *My Bachelor degree is in mathematics and more specifically in the field of applied maths.
+  * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
   
   
-  *However, my Master degree is in Informatics and Computational Biomedicine and more specifically in the field of Computer Science and Data Processing.
+  * However, my Master degree is in Informatics and Computational Biomedicine and more specifically in the field of Computer Science and Data Processing.
  
-  *In the last couple of years, I have discovered my passion for Data Science and coding. 
+  * In the last couple of years, I have discovered my passion for Data Science and coding. 
   
-                                           *Join me. </h3>
+  *Join me. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 

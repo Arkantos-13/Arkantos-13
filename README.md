@@ -11,7 +11,7 @@
   
   Join me. </h3>
 
-<p align="down"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
 - 🔭 I’m currently working on **Data Science Projects**
 

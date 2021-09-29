@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Anyone with lust for life and learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arkantos-13?tab=repositories](https://github.com/Arkantos-13?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click me](https://github.com/Arkantos-13?tab=repositories)
 
 - 💬 Ask me about **anything you may come up with :)**
 

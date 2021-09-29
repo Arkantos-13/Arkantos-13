@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Click me](https://github.com/Arkantos-13?tab=repositories)
 
-- 💬 Ask me about **anything you may come up with :)**
+- 💬 Ask me about **anything you may come up with :innocent:**
 
 - 📫 How to reach me **geo.pngtpls@gmail.com**
 

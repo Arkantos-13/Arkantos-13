@@ -5,7 +5,7 @@
    My Bachelor degree is in mathematics and more specifically in the field of applied maths.
   
   
-   Also, my Master degree is in Informatics and Computational Biomedicine and more specifically in the field of Computer Science and Data Processing.
+   Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Computer Science and Data Processing.
  
    In the last couple of years, I have discovered my passion for Data Science and coding. 
   

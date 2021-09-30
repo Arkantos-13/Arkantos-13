@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **On my way to become a Data Scientist**
 
 - 🌱 I’m currently learning **Python and SQL**
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Click me](https://github.com/Arkantos-13?tab=repositories)
 
-- 💬 Ask me about **anything you may come up with :innocent:**
+- 💬 Ask me about **Anything you may come up with :innocent:**
 
 - 📫 How to reach me **geo.pngtpls@gmail.com**
 

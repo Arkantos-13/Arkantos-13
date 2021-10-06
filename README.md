@@ -27,8 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-[![linkedin](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zheeeng&color=5b5b5b&labelColor=5b5b5b)](https://www.linkedin.com/in/geopanagiotopoulos/)  
 <a href="https://www.linkedin.com/in/geopanagiotopoulos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george panagiotopoulos" height="30" width="40" /></a>
 </p>
 

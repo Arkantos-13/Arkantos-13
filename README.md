@@ -55,5 +55,5 @@
 <p>&nbsp;<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="arkantos-13" /></p>
 
 
-
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
 

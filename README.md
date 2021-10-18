@@ -9,7 +9,8 @@
  
    In the last couple of years, I have discovered my passion for Data Science and coding. 
   
-   Join me. </h3>
+
+</h3>
    
    
 
@@ -28,8 +29,9 @@
 
 - 📫 How to reach me: **geo.pngtpls@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 
+
+<h3 align="left">Connect with me:</h3>
 
 <p align='center'>
   
@@ -44,14 +46,6 @@
    
 </p>
 
-<h3 align="left">IDE:</h3>
-<p align='center'>
-     </a>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-      </a>&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-
-</p>
 
 <h3 align="left">Languages and Softwares:</h3>
 
@@ -89,5 +83,15 @@
 
 </p>
 
+
+
+<h3 align="left">IDE:</h3>
+<p align='center'>
+     </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+      </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>

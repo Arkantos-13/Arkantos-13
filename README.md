@@ -1,22 +1,23 @@
-<h1 align="center"> Hello guys 👋, I'm George </h1>
+<h1 align="center"> Hello guys 👋, I'm George ><hr></hr>
 
 
 <!-----Education-----> 
 <h3 align="center">
   
   
-  ## **Education**
+<h3 align="left">Education:</h3><hr></hr>
   
-  * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
+   * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
   
-  * Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
+   * Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
   
-  * In the last couple of years, I have discovered my passion for Data Science and coding. 
- 
-</h3>
+   * In the last couple of years, I have discovered my passion for Data Science and coding. 
+</p>
+  
    
-   
+<br>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
+<br>
 
 
 - 🔭 I’m currently working on **On my way to become a Data Scientist**
@@ -31,10 +32,10 @@
 
 - 📫 How to reach me: **geo.pngtpls@gmail.com**
 
-
+<br>
 
 <!-----Connect with me-----> 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><hr></hr>
 
 
 <p align='center'>
@@ -47,7 +48,7 @@
 
 
 <!-----Languages and Softwares-----> 
-<h3 align="left">Languages and Softwares:</h3>
+<h3 align="left">Languages and Softwares:</h3><hr></hr>
 
 
 <p align='center'>
@@ -72,7 +73,7 @@
 
 
 <!-----Databases-----> 
-<h3 align="left">Database:</h3>
+<h3 align="left">Database:</h3><hr></hr>
 
 <p align='center'>
        </a>&nbsp;&nbsp;
@@ -84,19 +85,23 @@
 
 
 <!-----IDE-----> 
-<h3 align="left">IDE:</h3>
+<h3 align="left">IDE:</h3><hr></hr>
 
 
 <p align='center'>
        </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+           <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+       </a>&nbsp;&nbsp;
+           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+       </a>&nbsp;&nbsp;
+           <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
         </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+           <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 
 </p>
 
 <!-----Stats----->
-<h3 align="left">Stats:</h3>
+<h3 align="left">Stats:</h3><hr></hr>
 
 
 <p align='center'>

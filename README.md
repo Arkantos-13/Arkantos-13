@@ -54,7 +54,8 @@
 
 
 <p align='center'>
-  
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>&nbsp;&nbsp;
     <p>&nbsp;<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="arkantos-13" /></p>
     <p>&nbsp;<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="arkantos-13" /></p>
     <p>&nbsp;<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="arkantos-13" /></p>

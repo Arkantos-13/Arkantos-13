@@ -44,6 +44,14 @@
    
 </p>
 
+<h3 align="left">IDE:</h3>
+<p align='center'>
+     </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+      </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+
+</p>
 
 <h3 align="left">Languages and Softwares:</h3>
 
@@ -70,7 +78,9 @@
      
 </p>
 
-<h3 align="left">⚡ Database:</h3>
+
+
+<h3 align="left">Database:</h3>
 <p align='center'>
      </a>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />

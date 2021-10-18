@@ -52,8 +52,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
 
-<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="arkantos-13" /></p>
+<p>&nbsp;<img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="arkantos-13" /></p>
 
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
 

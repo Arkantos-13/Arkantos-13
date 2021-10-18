@@ -37,4 +37,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
 
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/geopanagiotopoulos/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+</p>

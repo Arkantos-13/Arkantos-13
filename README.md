@@ -1,36 +1,35 @@
-<h1 align="center"> Hello guys 👋, I'm George ><hr></hr>
+<h1 align="center"> Hello guys 👋, I'm George ><hr>
 
 
-<!-----Education-----> 
+<!-----Education----->   
+<h3 align="left">Education:</h3><hr></hr>
+
 <h3 align="center">
   
-  
-<h3 align="left">Education:</h3><hr></hr>
-  
-   * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
-  
-   * Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
-  
-   * In the last couple of years, I have discovered my passion for Data Science and coding. 
+  My Bachelor degree is in mathematics and more specifically in the field of applied maths.  
+    
+  Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
+    
+  In the last couple of years, I have discovered my passion for Data Science and coding.
 </p>
   
    
 <br>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
-<br>
 
 
-- 🔭 I’m currently working on **On my way to become a Data Scientist**
+🔭 I’m currently working on **On my way to become a Data Scientist**
 
-- 🌱 I’m currently learning **Python and SQL**
+🌱 I’m currently learning **Python and SQL**
 
-- 👯 I’m looking to collaborate on **Anyone with lust for life and learning**
+👯 I’m looking to collaborate on **Anyone with lust for life and learning**
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
+👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
 
-- 💬 Ask me about **Anything you may come up with :innocent:**
+💬 Ask me about **Anything you may come up with :innocent:**
 
-- 📫 How to reach me: **geo.pngtpls@gmail.com**
+📫 How to reach me: **geo.pngtpls@gmail.com**
 
 <br>
 

@@ -91,6 +91,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mfdeveloper&show_icons=true&count_private=true&theme=dark" width="400"></a>
-</p>
+<!--stat cards-->
+[![profile-stats](https://github-readme-stats.arkantos-13.app/api?username=arkantos-13&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/Arkantos-13)
+
+[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=arkantos-13&layout=compact&theme=material-palenight&hide_border=true)](https://wakatime.com/@arkantos-13)
+

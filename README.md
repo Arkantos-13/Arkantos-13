@@ -4,6 +4,7 @@
 <!-----Education----->   
 <h3 align="left">Education:</h3><hr></hr>
 
+
 <h3 align="center">
   
   My Bachelor degree is in mathematics and more specifically in the field of applied maths.  
@@ -15,6 +16,7 @@
   
    
 <br>  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
@@ -32,6 +34,7 @@
 📫 How to reach me: **geo.pngtpls@gmail.com**
 
 <br>
+
 
 <!-----Connect with me-----> 
 <h3 align="left">Connect with me:</h3><hr></hr>
@@ -74,6 +77,7 @@
 <!-----Databases-----> 
 <h3 align="left">Database:</h3><hr></hr>
 
+
 <p align='center'>
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -105,5 +109,4 @@
 
 <p align='center'>
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
-</p>
 

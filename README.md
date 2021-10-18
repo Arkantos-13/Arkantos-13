@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Anything you may come up with :innocent:**
 
-- 📫 How to reach me via my e-mail **geo.pngtpls@gmail.com**
+- 📫 How to reach me: **geo.pngtpls@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

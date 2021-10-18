@@ -10,8 +10,11 @@
    In the last couple of years, I have discovered my passion for Data Science and coding. 
   
    Join me. </h3>
+   
+   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
+
 
 - 🔭 I’m currently working on **On my way to become a Data Scientist**
 
@@ -30,7 +33,13 @@
 <a href="https://www.linkedin.com/in/geopanagiotopoulos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george panagiotopoulos" height="30" width="40" /></a>
 </p>
 
-
+<p align='center'>
+  
+  <a href="geo.pngtpls@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+</p>
 
 <p align='center'>
   

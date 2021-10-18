@@ -12,6 +12,7 @@
   Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
     
   In the last couple of years, I have discovered my passion for Data Science and coding.
+  
 </p>
   
    
@@ -33,8 +34,9 @@
 
 📫 How to reach me: **geo.pngtpls@gmail.com**
 
-<br>
+</p>
 
+<br>
 
 <!-----Connect with me-----> 
 <h3 align="left">Connect with me:</h3><hr></hr>
@@ -75,7 +77,7 @@
 
 
 <!-----Databases-----> 
-<h3 align="left">Database:</h3><hr></hr>
+<h3 align="left">Databases:</h3><hr></hr>
 
 
 <p align='center'>
@@ -108,5 +110,6 @@
 
 
 <p align='center'>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" />
+</p>
 

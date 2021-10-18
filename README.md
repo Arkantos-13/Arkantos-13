@@ -94,5 +94,5 @@
 <!--stat cards-->
 [![profile-stats](https://github-readme-stats.arkantos-13.app/api?username=arkantos-13&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/Arkantos-13)
 
-[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=arkantos-13&layout=compact&theme=material-palenight&hide_border=true)](https://wakatime.com/@arkantos-13)
+[![wakatime-stats](https://github-readme-stats.arkantos-13.app/api/wakatime?username=arkantos-13&layout=compact&theme=material-palenight&hide_border=true)](https://wakatime.com/@arkantos-13)
 

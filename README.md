@@ -3,16 +3,17 @@
 
 <h3 align="center">
   
-  My Bachelor degree is in mathematics and more specifically in the field of applied maths.
+  ## **Education**
   
-  Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
+  * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
   
-  In the last couple of years, I have discovered my passion for Data Science and coding. 
+  * Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
+  
+  * In the last couple of years, I have discovered my passion for Data Science and coding. 
  
 </h3>
    
    
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
 

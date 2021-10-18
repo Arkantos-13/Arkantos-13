@@ -19,11 +19,11 @@
 
 - 👯 I’m looking to collaborate on **Anyone with lust for life and learning**
 
-- 👨‍💻 All of my projects are available at [Click me](https://github.com/Arkantos-13?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
 
 - 💬 Ask me about **Anything you may come up with :innocent:**
 
-- 📫 How to reach me **geo.pngtpls@gmail.com**
+- 📫 How to reach me via my e-mail **geo.pngtpls@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

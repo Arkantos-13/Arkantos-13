@@ -1,4 +1,4 @@
-<h1 align="center"> Hello guys 👋, I'm George ><hr>
+<h1 align="center"> Hello guys 👋, I'm George<hr>
 
 
 <!-----Education----->   

@@ -34,8 +34,8 @@
 
 
 <!-----Connect with me-----> 
-
 <h3 align="left">Connect with me:</h3>
+
 
 <p align='center'>
     <a href="mailto:geo.pngtpls@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />                </a>&nbsp;&nbsp;&nbsp;
@@ -67,8 +67,6 @@
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
     </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-    </a>&nbsp;&nbsp;
      
 </p>
 
@@ -88,6 +86,7 @@
 <!-----IDE-----> 
 <h3 align="left">IDE:</h3>
 
+
 <p align='center'>
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -97,8 +96,8 @@
 </p>
 
 <!-----Stats----->
-
 <h3 align="left">Stats:</h3>
+
 
 <p align='center'>
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>

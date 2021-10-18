@@ -2,7 +2,6 @@
 
 
 <h3 align="center">
-  
    * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
   
    * Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
@@ -35,9 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align='center'>
-  
   <a href="mailto:geo.pngtpls@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />                </a>&nbsp;&nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/geopanagiotopoulos/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>&nbsp;&nbsp;

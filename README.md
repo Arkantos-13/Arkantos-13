@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" /></p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Arkantos-13}
+![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={Arkantos-13}})

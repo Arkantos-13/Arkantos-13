@@ -1,5 +1,6 @@
 <h1 align="center">Hello guys 👋, I'm George Panagiotopoulos</h1>
 
+
 <h3 align="center">
   
    * My Bachelor degree is in mathematics and more specifically in the field of applied maths.
@@ -29,10 +30,14 @@
 
 
 
+<!-----Connect with me-----> 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align='center'>
+  
   <a href="mailto:geo.pngtpls@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />                </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/geopanagiotopoulos/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>&nbsp;&nbsp;
@@ -40,6 +45,7 @@
 </p>
 
 
+<!-----Languages and Softwares-----> 
 <h3 align="left">Languages and Softwares:</h3>
 
 
@@ -66,9 +72,9 @@
 </p>
 
 
-<---Databases--> 
-
+<!-----Databases-----> 
 <h3 align="left">Database:</h3>
+
 <p align='center'>
      </a>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -78,8 +84,9 @@
 </p>
 
 
-
+<!-----IDE-----> 
 <h3 align="left">IDE:</h3>
+
 <p align='center'>
      </a>&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />

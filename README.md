@@ -51,12 +51,15 @@
 </p>
 
 
-<!-----Languages and Softwares-----> 
-<h3 align="left">Languages and Softwares:</h3><hr></hr>
+<!-----Skills-----> 
+<h3 align="left">Skills:</h3><hr></hr>
 
 
 <p align='center'>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>   
+ 
+<p align='center'>
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     </a>&nbsp;&nbsp;
@@ -110,6 +113,6 @@
 
 
 <p align='center'>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" />
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" />
 </p>
 

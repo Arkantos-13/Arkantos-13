@@ -32,7 +32,7 @@
 
 💬 Ask me about **Anything you may come up with :innocent:**
 
-📫 How to reach me: **geo.pngtpls@gmail.com**
+📫 You can reach me via my e-mail or my Linkedin profile.
 
 </p>
 

@@ -78,7 +78,11 @@
      
 </p>
 
-
+<!-----Matlab----->
+  <p align='center'>
+    </a>&nbsp;&nbsp;
+         <img src="https://img.shields.io/badge/Matlab-F40027?style=for-the-badge&logo={MatlabE}&logoColor=white" />
+   </p>      
 <!-----Databases-----> 
 <h3 align="left">Databases:</h3><hr></hr>
 

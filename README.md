@@ -54,8 +54,8 @@
 <!-----Skills-----> 
 <h3 align="left">Skills:</h3><hr></hr>
 
-<!-----Python----->
 
+<!-----Python----->
 <p align='center'>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>   
@@ -81,7 +81,6 @@
 
 
 <!-----Matlab----->
-
 <p align='center'>
     </a>&nbsp;&nbsp;
          <img src="https://img.shields.io/badge/Matlab-F40027?style=for-the-badge&logo=MatlabE&logoColor=white" />
@@ -94,7 +93,9 @@
 
 <p align='center'>
        </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+       <img src="https://img.shields.io/badge/SQL-00B2FF?style=for-the-badge&logo=SQL&logoColor=white" />
+       </a>&nbsp;&nbsp;
+       <img src="https://img.shields.io/badge/MySQL-005571?style=for-the-badge&logo=MySQL&logoColor=white" />
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -109,12 +110,13 @@
        </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
        </a>&nbsp;&nbsp;
-           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-       </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
         </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-
+        </a>&nbsp;&nbsp;
+           <img src="https://img.shields.io/badge/Git-543DE0?style=for-the-badge&logo=git&logoColor=white" />
+        </a>&nbsp;&nbsp;
+           <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <!-----Stats----->

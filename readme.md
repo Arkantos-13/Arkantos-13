@@ -19,7 +19,7 @@
 <br>  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
 
 🔭 I’m currently working on **On my way to become a Data Scientist**

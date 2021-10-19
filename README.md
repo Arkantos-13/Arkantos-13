@@ -54,6 +54,7 @@
 <!-----Skills-----> 
 <h3 align="left">Skills:</h3><hr></hr>
 
+<!-----Python----->
 
 <p align='center'>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -67,22 +68,26 @@
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     </a>&nbsp;&nbsp;
+           <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+    </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
     </a>&nbsp;&nbsp;
      
 </p>
 
+
 <!-----Matlab----->
-  <p align='center'>
+
+<p align='center'>
     </a>&nbsp;&nbsp;
-         <img src="https://img.shields.io/badge/Matlab-F40027?style=for-the-badge&logo={MatlabE}&logoColor=white" />
-   </p>      
+         <img src="https://img.shields.io/badge/Matlab-F40027?style=for-the-badge&logo=MatlabE&logoColor=white" />
+</p>      
+
+
 <!-----Databases-----> 
 <h3 align="left">Databases:</h3><hr></hr>
 
@@ -90,7 +95,7 @@
 <p align='center'>
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-        </a>&nbsp;&nbsp;
+       </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>

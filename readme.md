@@ -10,9 +10,7 @@
   My Bachelor degree is in mathematics and more specifically in the field of applied maths.  
     
   Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
-    
-  In the last couple of years, I have discovered my passion for Data Science and coding.
-  
+      
 </p>
   
    
@@ -23,15 +21,10 @@
 
 
 🔭 I’m currently working on **On my way to become a Data Scientist**
-
 🌱 I’m currently learning **Python and SQL**
-
 👯 I’m looking to collaborate on **Anyone with lust for life and learning**
-
 👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
-
 💬 Ask me about **Anything you may come up with :innocent:**
-
 📫 You can reach me via my e-mail or my Linkedin profile.
 
 </p>

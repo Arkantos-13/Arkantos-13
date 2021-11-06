@@ -21,10 +21,15 @@
 
 
 🔭 I’m currently working on **On my way to become a Data Scientist**
+
 🌱 I’m currently learning **Python and SQL**
+
 👯 I’m looking to collaborate on **Anyone with lust for life and learning**
+
 👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
+
 💬 Ask me about **Anything you may come up with :innocent:**
+
 📫 You can reach me via my e-mail or my Linkedin profile.
 
 </p>

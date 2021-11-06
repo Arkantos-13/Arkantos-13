@@ -70,8 +70,6 @@
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
     </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    </a>&nbsp;&nbsp;
     
      
 </p>

@@ -7,9 +7,9 @@
 
 <h3 align="center">
   
-  My Bachelor degree is in mathematics and more specifically in the field of applied maths.  
-    
-  Currently, i am working on my Master degree which is in Informatics and Computational Biomedicine and more specifically in the field of Systems Security, Big Data Management, and Simulation.
+My bachelor's degree is in mathematics, with a focus on applied mathematics.
+
+I am now pursuing my Master's degree in Computer Science.
       
 </p>
   

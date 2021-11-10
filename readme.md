@@ -7,9 +7,9 @@
 
 <h3 align="center">
   
-My bachelor's degree is in mathematics, with a focus on applied mathematics.
+My Bachelor's degree is in mathematics, with a specialization on applied mathematics.
 
-I am now pursuing my Master's degree in Computer Science.
+My Master's degree in Computer Science and Data Processing is now under progress.
       
 </p>
   

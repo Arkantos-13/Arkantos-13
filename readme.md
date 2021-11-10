@@ -9,7 +9,7 @@
   
 My Bachelor's degree is in mathematics, with a specialization on applied mathematics.
 
-My Master's degree in Computer Science and Data Processing is now under progress.
+My Master's degree in Computer Science and Data Processing is now in progress.
       
 </p>
   
@@ -20,11 +20,11 @@ My Master's degree in Computer Science and Data Processing is now under progress
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
 
 
-🔭 I’m currently working on **On my way to become a Data Scientist**
+🔭 I’m currently working **On my way to become a Data Scientist**
 
 🌱 I’m currently learning **Python and SQL**
 
-👯 I’m looking to collaborate on **Anyone with lust for life and learning**
+👯 I’m looking to collaborate on **With anyone with lust learning**
 
 👨‍💻 All of my projects are available [Here](https://github.com/Arkantos-13?tab=repositories)
 

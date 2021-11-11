@@ -70,16 +70,7 @@ My Master's degree in Computer Science and Data Processing is now in progress.
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
     </a>&nbsp;&nbsp;
-    
-     
-</p>
-
-
-<!-----Matlab----->
-<p align='center'>
-    </a>&nbsp;&nbsp;
-         <img src="https://img.shields.io/badge/Matlab-F40027?style=for-the-badge&logo=MatlabE&logoColor=white" />
-</p>      
+        
 
 
 <!-----Databases-----> 

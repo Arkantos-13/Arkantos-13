@@ -18,8 +18,6 @@ My Master's degree in Computer Science and Data Processing is now in progress.
 
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
-
-
 🔭 I’m currently working **on my way to become a Data Scientist**
 
 🌱 I’m currently learning **Python and SQL**
@@ -33,31 +31,20 @@ My Master's degree in Computer Science and Data Processing is now in progress.
 📫 You can reach me via my e-mail or my Linkedin profile.
 
 </p>
-
-<br>
-
 <!-----Connect with me-----> 
 <h3 align="left">Connect with me:</h3><hr></hr>
-
-
 <p align='center'>
     <a href="mailto:geo.pngtpls@gmail.com?subject=github_message"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />                </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/geopanagiotopoulos/">
           <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>&nbsp;&nbsp;
-   
+        </a>&nbsp;&nbsp;   
 </p>
-
-
 <!-----Skills-----> 
 <h3 align="left">Skills:</h3><hr></hr>
-
-
 <!-----Python----->
 <p align='center'>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>   
- 
+</p>    
 <p align='center'>
     </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -71,12 +58,8 @@ My Master's degree in Computer Science and Data Processing is now in progress.
        <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
     </a>&nbsp;&nbsp;
         
-
-
 <!-----Databases-----> 
 <h3 align="left">Databases:</h3><hr></hr>
-
-
 <p align='center'>
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/SQL-00B2FF?style=for-the-badge&logo=SQL&logoColor=white" />
@@ -86,12 +69,8 @@ My Master's degree in Computer Science and Data Processing is now in progress.
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>
-
-
 <!-----IDE-----> 
 <h3 align="left">IDE:</h3><hr></hr>
-
-
 <p align='center'>
        </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -104,12 +83,8 @@ My Master's degree in Computer Science and Data Processing is now in progress.
         </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 <!-----Stats----->
 <h3 align="left">Stats:</h3><hr></hr>
-
-
 <p align='center'>
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkantos-13&show_icons=true&locale=en" alt="arkantos-13" />
 </p>
-

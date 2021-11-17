@@ -18,6 +18,7 @@ My Master's degree in Computer Science and Data Processing is now in progress.
 
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=arkantos-13&label=Profile%20views&color=0e75b6&style=flat" alt="arkantos-13" /> </p>
+
 🔭 I’m currently working **on my way to become a Data Scientist**
 
 🌱 I’m currently learning **Python and SQL**

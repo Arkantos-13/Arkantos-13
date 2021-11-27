@@ -78,7 +78,7 @@ My Master's degree in Computer Science and Data Processing is now in progress.
        </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
         </a>&nbsp;&nbsp;
-           <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         </a>&nbsp;&nbsp;
            <img src="https://img.shields.io/badge/Git-543DE0?style=for-the-badge&logo=git&logoColor=white" />
         </a>&nbsp;&nbsp;

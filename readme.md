@@ -11,7 +11,7 @@
   
 🔭 I’m currently working on my way to become a Data Analyst
 
-🌱 I’m currently learning Python and SQL
+🌱 I've worked with Python and SQL before, but I've spent the last few months learning DAX and Power BI
 
 👯 I’m looking to collaborate on with anyone with lust learning
 

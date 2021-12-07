@@ -55,8 +55,6 @@
        </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/SQL-00B2FF?style=for-the-badge&logo=SQL&logoColor=white" />
        </a>&nbsp;&nbsp;
-       <img src="https://img.shields.io/badge/MySQL-005571?style=for-the-badge&logo=MySQL&logoColor=white" />
-       </a>&nbsp;&nbsp;
        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </p>

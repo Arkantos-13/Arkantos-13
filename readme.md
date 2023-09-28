@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm George</h1>
 
-<h3 align="center">In love with math, programming, data science, and books</h3>
+<h3 align="center">In love with programming, data science, books and black and white movies</h3>
 
 <h4 align="center">Currently on the path to becoming a Data Scientist</h4>
 

@@ -2,7 +2,7 @@
 
 <h3 align="center">In love with math, programming, data science, and books</h3>
 
-<h4 align="center">Currently on the path to becoming a Data Analyst</h4>
+<h4 align="center">Currently on the path to becoming a Data Scientist</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
